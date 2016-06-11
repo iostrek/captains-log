@@ -13,3 +13,5 @@ github_username:  iostrek
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+future: true
