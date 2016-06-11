@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RxSwift Tutorials"
-date:   2016-11-01 13:28:59 -0500
+date:   2016-06-11 13:28:59 -0500
 ---
 
 [RxSwift by Examples #1 – The basics.][tutorial-1]
